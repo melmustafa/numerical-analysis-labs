@@ -1,0 +1,5 @@
+name: numeric-labs
+channels:
+  - conda-forge
+dependencies:
+  - octave_kernel
